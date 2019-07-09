@@ -1,0 +1,10 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+ul li{
+	float: left;
+	margin: 10px;
+	list-style-type: none;
+}
